@@ -18,7 +18,7 @@ Este projeto é um sistema backend desenvolvido com **Java + Spring Boot**, com 
 ## 🧱 Tecnologias Utilizadas
 
 - Java 21
-- Spring Boot 3.4.5
+- Spring Boot 3.5.0
 - Spring Data JPA
 - Lombok
 - PostgreSQL
