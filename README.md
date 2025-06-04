@@ -26,5 +26,5 @@ Este projeto é um sistema backend desenvolvido com **Java + Spring Boot**, com 
 
 ---
 
-* Ainda em construção, será adicionado Swagger para documentar as API`s, Testes unitários com JUnit e Autenticação de usuário.
+* Ainda em construção, será adicionado validações e regras de negócio específicas, Swagger para documentar as API`s, Testes unitários com JUnit e Autenticação de usuário com JWT Token.
 
